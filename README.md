@@ -1,6 +1,7 @@
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard_Preview.png)
+![Dashboard Preview](Dashboard_screenshort1.png)
+![Dashboard Preview](Dashboard_screenshort2.png))
 # E-Commerce Return & Profitability Analysis (Excel)
 
 ## Project Overview
